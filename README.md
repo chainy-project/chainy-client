@@ -6,6 +6,7 @@ Terminal:
 ```bash
 git clone https://github.com/chainy-project/chainy-client
 pip3 install requests
+cd chainy-client
 python3 main.py
 ```
 
