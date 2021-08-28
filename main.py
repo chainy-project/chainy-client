@@ -64,5 +64,4 @@ if func == 3:
         f"{BASE_URL}/send?private_key={private_key}&amount={amount}&address={reciv}"
     ).json()
     print(response)
-if func < 5:
-    print("я с твоей мамой делал джага джага")
+
