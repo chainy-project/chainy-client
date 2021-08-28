@@ -11,6 +11,12 @@ python3 main.py
 
 ## Supporting
 1: Login
+
+
 2: Check balance
+
+
 3: Send
+
+
 4: Register
