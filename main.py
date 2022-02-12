@@ -4,7 +4,7 @@ import requests
 import os
 
 print("Welcome to the Chainy client v1")
-BASE_URL = "http://45.138.72.87"
+BASE_URL = "http://mc.eremenkod.ru"
 print("1: Login")
 print("2: Check balance")
 print("3: Send")
